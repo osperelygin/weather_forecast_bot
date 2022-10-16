@@ -1,0 +1,1 @@
+It is Telegram bot predictive the weather!
